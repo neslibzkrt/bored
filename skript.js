@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
     noBtn.addEventListener("click", () => {
         console.log("No button clicked");
         // Change text and gif when the No button is clicked
-        question.innerHTML = "david u arschloch! dont you dare come to my room again";
+        question.innerHTML = "u arschloch! did u actually tried that hard";
         gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Rrc2s2NDl2MTY2NGVyeW9jZm1uNnNraGZiM2dweGV2OGtzbjY5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbN0WomN4S7Z7tpKOC/giphy.gif"
     });
     // Make the No button move randomly on hover
